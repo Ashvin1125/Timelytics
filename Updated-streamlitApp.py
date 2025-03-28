@@ -162,6 +162,4 @@ with st.expander("❓ Help & Information"):
     - Error? Refresh the page to retry
     """)
 
-# Requirements for deployment
-st.markdown("""
-```python
+
