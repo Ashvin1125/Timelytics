@@ -31,43 +31,6 @@ It consists of multiple tables which include relevant information about the cust
 ![dataset-schema](./assets/dataset_schema.png)
 
 
-## ⭐  To run these scripts, you need the following installed:
-
-1. Python 3
-2. The python libraries listed in requirements.txt
-    * Try running "pip3 install -r requirements.txt"
-
-### Step 1: Clone this repository
-Run:
-```bash
-git clone https://github.com/SaiJeevanPuchakayala/Timelytics
-```
-
-### Step 2: Navigate to the Timelytics directory
-Run:
-```bash
-cd BinSpy
-```
-### Step 3: Install the python libraries
-Run:
-```bash
-pip install -r requirements.txt
-```
-### Step 4: Run the streamlitApp.py file
-Run:
-```bash
-streamlit run streamlitApp.py
-```
-
-## ⭐ Streamlit Deployment Configurations:
-```
-[theme]
-base="dark"
-
-[browser]
-gatherUsageStats = false
-```
-
 ## ⭐ References:
 1. https://30days.streamlit.app/
 2. https://docs.streamlit.io/streamlit-community-cloud/get-started/deploy-an-app
